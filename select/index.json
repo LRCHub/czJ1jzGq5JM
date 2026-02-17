@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "桜color",
+  "base_artist": "GReeeeN",
+  "createdAt": "2026-02-17T02:04:18.985359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜color",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_桜color_GReeeeN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜color",
+      "artist": "GReeeeN",
+      "has_synced": false,
+      "path": "select/pl_01_桜color_GReeeeN.txt"
+    }
+  ]
+}
